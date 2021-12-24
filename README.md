@@ -1,5 +1,6 @@
-### Hi there 👋
-
+### Hi...👋 This is Lakkappa Bhajantri
+🌱 I’m currently learning ...Java
+📫 How to reach me: ... https://www.linkedin.com/in/lakkappa-bhajantri-560b40198/
 <!--
 **LakkappaBJ/LakkappaBJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
