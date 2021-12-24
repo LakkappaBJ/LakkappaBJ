@@ -1,5 +1,5 @@
-### Hi...👋 This is Lakkappa Bhajantri
-I am a Student, Learner, Developer
+### Hi...👋 
+### I am a Student, Learner, Developer
 -🌱 I’m currently learning ...Java
 
 -📫 How to reach me: ... https://www.linkedin.com/in/lakkappa-bhajantri-560b40198/
