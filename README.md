@@ -17,8 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakkappabj&show_icons=true&locale=en&layout=compact" alt="lakkappabj" /></p>
 
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=lakkappabj&show_icons=true&locale=en" alt="lakkappabj" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakkappabj&" alt="lakkappabj" /></p>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakkappaBJ&show_icons=true&theme=radical)
+![Lakkappa's GitHub stats](https://github-readme-stats.vercel.app/api?username=lakkappabj&show_icons=true&theme=radical)
 
