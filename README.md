@@ -21,5 +21,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lakkappabj&" alt="lakkappabj" /></p>
 
-
-![Lakkappa's GitHub stats](https://github-readme-stats.vercel.app/api?username=LakkappaBJ&theme=red&show_icons=true)
