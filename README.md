@@ -10,6 +10,8 @@
 <a href="https://linkedin.com/in/lakkappa bhajantri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="lakkappa-bhajantri-560b40198" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/lakkappa bhajantri" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="lakkappa bhajantri" height="30" width="40" /></a>
 <a href="https://instagram.com/lucky_h_b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="lucky_h_b" height="30" width="40" /></a>
+  
+  <a href="https://www.hackerrank.com/lakkappabj_xwo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lakkappabj_xwo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
