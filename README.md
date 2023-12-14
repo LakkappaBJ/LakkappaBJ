@@ -1,8 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Lakkappa Bhajantri</h1>
-<h3 align="center">Software Developer</h3>
+<h3 align="center">Software Engineer at Pepperl-Fuchs India pvt Ltd</h3>
 <h4 align="center">I am a Student, Learner, Developer</h4>
-<h4 align="center">currently I am pursuing Java Enterprise Course </h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lakkappabj&label=Profile%20views&color=0e75b6&style=flat" alt="lakkappabj" /> </p>
 
 <h3 align="left">Connect with me:</h3>
