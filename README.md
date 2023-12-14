@@ -21,7 +21,7 @@
   <a href="https://www.spring.io/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40"/> </a> &nbsp
   <a href="https://tomcat.apache.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original-wordmark.svg" alt="Tomcat" width="40" height="40"/> </a> &nbsp
   <a href="https://hibernate.org/" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/353874/hibernate.svg" alt="hibernate" width="40" height="40"/> </a> 
-  <a href="https://www.ibm.com/docs/en/db2-for-zos/11" target="_blank" rel="noreferrer"> <img src="https://www.db2tutorial.com/wp-content/uploads/2019/03/db2-tutorial.png" alt="DB2 UDB iSeries 7.4" width="40" height="40"/> </a> 
+  <a href="https://www.ibm.com/docs/en/db2-for-zos/11" target="_blank" rel="noreferrer"> <img src="https://www.db2tutorial.com/wp-content/uploads/2019/03/db2-tutorial.png" alt="DB2_UDB_iSeries_7.4" width="40" height="40"/> </a> 
 </p> 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=lakkappabj&show_icons=true&locale=en&layout=compact" alt="lakkappabj" /></p>
